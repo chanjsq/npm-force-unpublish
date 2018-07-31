@@ -1,6 +1,6 @@
 {
   "name": "force-unpublish",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Remove npm package from user profile.",
   "keywords": [
     "npm",
