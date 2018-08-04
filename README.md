@@ -13,7 +13,7 @@ npx force-unpublish package-name 'the reason'
 
 ## License
 
-MIT
+MIT License
 
 [npm-v-src]: https://badgen.net/npm/v/force-unpublish
 [npm-dw-src]: https://badgen.net/npm/dw/force-unpublish
