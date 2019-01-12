@@ -10,8 +10,7 @@
   "bin": "index.js",
   "dependencies": {
     "chalk": "^2.4.1",
-    "shelljs": "^0.8.2",
-    "sleep": "^5.1.1"
+    "shelljs": "^0.8.2"
   },
   "repository": "chanjsq/npm-force-unpublish",
   "license": "MIT"
