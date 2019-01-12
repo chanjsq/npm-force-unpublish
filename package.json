@@ -1,6 +1,6 @@
 {
   "name": "force-unpublish",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Remove npm package from user profile.",
   "keywords": [
     "npm",
@@ -9,8 +9,8 @@
   "main": "index.js",
   "bin": "index.js",
   "dependencies": {
-    "chalk": "^2.4.1",
-    "shelljs": "^0.8.2"
+    "chalk": "^2.4.2",
+    "shelljs": "^0.8.3"
   },
   "repository": "chanjsq/npm-force-unpublish",
   "license": "MIT"
