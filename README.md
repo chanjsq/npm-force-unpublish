@@ -15,9 +15,13 @@ npx force-unpublish package-name 'the reason'
 yarn force-unpublish package-name 'the reason'
 ```
 
+## References
+
+- [Deprecating and undeprecating packages or package versions](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions)
+
 ## License
 
-MIT License
+MIT
 
 [npm-v-src]: https://badgen.net/npm/v/force-unpublish
 [npm-dw-src]: https://badgen.net/npm/dw/force-unpublish
