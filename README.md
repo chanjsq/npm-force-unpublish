@@ -1,7 +1,7 @@
 # npm force unpublish
 
 [![npm version][npm-v-src]][npm-href]
-[![npm downloads][npm-dw-src]][npm-href]
+[![npm downloads][npm-dm-src]][npm-href]
 
 Remove npm package from user profile.
 
@@ -20,5 +20,5 @@ npx force-unpublish pkg-name 'the reason'
 MIT
 
 [npm-v-src]: https://badgen.net/npm/v/force-unpublish
-[npm-dw-src]: https://badgen.net/npm/dw/force-unpublish
+[npm-dm-src]: https://badgen.net/npm/dm/force-unpublish
 [npm-href]: https://npm.im/force-unpublish
