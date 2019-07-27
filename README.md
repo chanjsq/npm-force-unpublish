@@ -21,4 +21,4 @@ MIT
 
 [npm-v-src]: https://badgen.net/npm/v/force-unpublish
 [npm-dw-src]: https://badgen.net/npm/dw/force-unpublish
-[npm-href]: https://www.npmjs.com/package/force-unpublish
+[npm-href]: https://npm.im/force-unpublish
