@@ -1,4 +1,4 @@
-# npm Force Unpublish
+# npm force unpublish
 
 [![npm version][npm-v-src]][npm-href]
 [![npm downloads][npm-dw-src]][npm-href]
