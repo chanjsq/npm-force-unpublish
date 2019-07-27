@@ -11,7 +11,7 @@ const success = chalk.green;
 const args = process.argv;
 
 if (args.length < 4) {
-  log(error('Usage: npx force-unpublish package-name \'the reason\''));
+  log(error("Usage: npx force-unpublish pkg-name 'the reason'"));
   return;
 }
 

@@ -8,11 +8,7 @@ Remove npm package from user profile.
 ## Usage
 
 ```bash
-# Using npm
-npx force-unpublish package-name 'the reason'
-
-# Using Yarn
-yarn force-unpublish package-name 'the reason'
+npx force-unpublish pkg-name 'the reason'
 ```
 
 ## References
